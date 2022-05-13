@@ -1,0 +1,14 @@
+p {
+  display: inline-block;
+  background-color: lightgrey;
+  color: purple;
+  width: 200px;
+  height: 60px;
+  padding: 20px;
+  border: 8px solid aqua;
+  border-radius: 5px;
+  font-size: 35px;
+  font-family: 'Arial', cursive;
+  text-align: center;
+  
+}
